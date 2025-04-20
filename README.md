@@ -1,5 +1,7 @@
 # Deep-Learning-Project-2-SUMMARY
 
+Team Members: Koshiq Hossain, Thejas MS, Shreyas KV
+
 Assessment Criteria Results:
   1. Modified BERT architecture: ✅ Used RoBERTa base model with LoRA adaptation
   2. Parameter count < 1M: ✅ Model has 814,852 trainable parameters
